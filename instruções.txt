@@ -1,4 +1,5 @@
 LINK DO SITE:
-https://flexbox-matheusmartins.netlify.app
+https://matheusmartinssdev.github.io/flexbox-trabalho
 
-O site foi hospedado gratuitamente no Netlify conforme solicitado na atividade.
+O site foi hospedado gratuitamente no Github conforme solicitado na atividade.
+
