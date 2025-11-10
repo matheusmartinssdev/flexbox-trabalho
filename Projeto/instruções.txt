@@ -1,4 +1,0 @@
-LINK DO SITE:
-https://flexbox-matheusmartins.netlify.app
-
-O site foi hospedado gratuitamente no Netlify conforme solicitado na atividade.
